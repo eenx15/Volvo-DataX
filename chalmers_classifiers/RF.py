@@ -1,3 +1,5 @@
+# The RF-classifer code is based on pedestrian_crossing_predictions by Wade Rosko, https://github.com/wrosko/pedestrian_crossing_predictions
+
 import pandas as pd
 import numpy as np
 import ast
